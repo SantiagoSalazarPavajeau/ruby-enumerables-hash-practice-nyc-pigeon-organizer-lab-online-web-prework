@@ -1,5 +1,5 @@
 def nyc_pigeon_organizer(data)
-  data.each [key, value] 
-    value.each [new_value,  names]
-      names.each[]
+  data.each do [key, value] 
+    value.each do [new_value,  names]
+      names.each do [name]
 end
