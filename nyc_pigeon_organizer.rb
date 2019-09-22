@@ -1,3 +1,3 @@
 def nyc_pigeon_organizer(data)
-  data.each [item]
+  data.each [item] 
 end
